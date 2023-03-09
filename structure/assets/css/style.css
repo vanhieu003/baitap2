@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+  
+}
+
+.box1{
+    width: 100px;
+    height: 100px;
+    background: black;
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background: brown;
+}
+.box3{
+    width: 100px;
+    height: 100px;
+    background: blue;
+}
